@@ -66,7 +66,7 @@ body {
 
 .hero h1 {
   margin: 0;
-  font-size: 56px;
+  font-size: 48px;
   font-weight: 800;
   letter-spacing: -0.04em;
   color: #2563eb;
@@ -602,4 +602,4 @@ body {
 .ai-sparkle-btn:hover:not(:disabled) {
     background: var(--blue-500);
     color: #fff;
-}
+}

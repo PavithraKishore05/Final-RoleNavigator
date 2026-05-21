@@ -63,7 +63,7 @@ export default function InterviewCoach() {
       </button>
 
       <header className="hero">
-        <h1 className="heroTitle" style={{ color: "var(--blue)" }}>Generate Interview Questions</h1>
+        <h1 className="heroTitle" style={{ color: "var(--blue)" }}>Interview Question Prediction </h1>
         <p className="heroSub">
           Upload your resume to get tailored interview questions based on your profile
         </p>

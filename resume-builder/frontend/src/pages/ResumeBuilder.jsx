@@ -253,8 +253,8 @@ export default function ResumeBuilder() {
 
       <main className="container">
         <div className="hero">
-          <h1>Career Catalyst</h1>
-          <p>Optimize your resume with AI. Align your skills with any job description in seconds.</p>
+          <h1>Resume Optimizer</h1>
+          <p>Create professional, job-specific resumes optimized for modern hiring systems.</p>
         </div>
 
         {/* Upload */}
@@ -352,7 +352,7 @@ export default function ResumeBuilder() {
         />
       </main>
 
-      <footer className="footer">Career Catalyst (AI Resume Alignment) Ready</footer>
+      <footer className="footer">Resume Optimizer (AI Resume Alignment) Ready</footer>
     </div>
   );
 }
